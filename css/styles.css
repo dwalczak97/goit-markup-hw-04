@@ -91,6 +91,12 @@ p {
   background-color: #2e2f42;
   padding: 188px 0;
 }
+.container-one-heading {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
 .section-one-heading {
   color: #ffffff;
   font-weight: 700;
@@ -145,10 +151,13 @@ p {
   background: #f4f4fd;
   padding: 120px 0;
 }
+.team-conteiner {
+  display: flex;
+}
 .list-team {
   background: #fff;
   list-style: none;
-  display: flex;
+
   border-radius: 0px 0px 4px 4px;
   flex-basis: calc((100% - 3 * 24px) / 4);
 }
