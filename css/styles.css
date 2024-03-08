@@ -401,6 +401,7 @@ footer {
 .box {
   position: relative;
   overflow: hidden;
+  content: "";
 }
 .overlay {
   font-size: 16px;
