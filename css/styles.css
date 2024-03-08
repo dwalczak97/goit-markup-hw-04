@@ -403,14 +403,11 @@ footer {
   overflow: hidden;
   content: "";
 }
-.overlay {
-  background: #4d5ae5;
-  position: absolute;
-}
+
 .box:hover .overlay {
   transform: translateY(0);
 }
-.paragraph-overlay {
+.overlay {
   color: #f4f4fd;
   font-size: 16px;
   line-height: 1.5;
@@ -423,4 +420,5 @@ footer {
   transform: translateY(100%);
   top: 0;
   left: 0;
+  position: absolute;
 }
