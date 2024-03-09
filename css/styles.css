@@ -426,7 +426,7 @@ footer {
 .social-media-list-footer {
   display: flex;
   justify-content: center;
-  gap: 24px;
+  gap: 16px;
 }
 .icon-list-footer {
   list-style: none;
@@ -445,14 +445,27 @@ footer {
   align-items: center;
   justify-content: center;
 }
+.icon-footer:hover {
+  background-color: #31d0aa;
+}
+.icon-footer:focus {
+  background-color: #31d0aa;
+}
 .header-footer {
+  font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #fff;
+  margin-bottom: 16px;
 }
 .div-media-footer {
   display: flex;
   justify-content: center;
+}
+.div-footer {
+  display: flex;
+  justify-content: center;
   align-items: baseline;
+  margin-right: 120px;
 }
