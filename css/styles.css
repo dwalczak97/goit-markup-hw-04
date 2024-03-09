@@ -461,8 +461,12 @@ footer {
   margin-bottom: 16px;
 }
 .div-media-footer {
+}
+.footer-container {
   display: flex;
   justify-content: center;
   align-items: baseline;
+}
+.footer-left {
   margin-right: 120px;
 }
