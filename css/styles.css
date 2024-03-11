@@ -365,7 +365,7 @@ footer {
   align-items: center;
   margin-bottom: 8px;
 }
-.icon-2 {
+.icon-second {
   fill: #f4f4fd;
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
   background-color: #4d5ae5;
@@ -376,10 +376,10 @@ footer {
   align-items: center;
   justify-content: center;
 }
-.icon-2:hover {
+.icon-second:hover {
   background-color: #404bbf;
 }
-.icon-2:focus {
+.icon-second:focus {
   background-color: #404bbf;
 }
 .icon-radius {
@@ -437,7 +437,7 @@ footer {
   width: 40px;
   height: 40px;
 }
-.icon-3 {
+.icon-third {
   fill: #f4f4fd;
 
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
@@ -449,10 +449,10 @@ footer {
   align-items: center;
   justify-content: center;
 }
-.icon-3:hover {
+.icon-third:hover {
   background-color: #31d0aa;
 }
-.icon-3:focus {
+.icon-third:focus {
   background-color: #31d0aa;
 }
 .header-footer {
