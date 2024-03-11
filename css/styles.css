@@ -437,7 +437,7 @@ footer {
   width: 40px;
   height: 40px;
 }
-.icon-footer {
+.icon-3 {
   fill: #f4f4fd;
 
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
@@ -449,10 +449,10 @@ footer {
   align-items: center;
   justify-content: center;
 }
-.icon-footer:hover {
+.icon-3:hover {
   background-color: #31d0aa;
 }
-.icon-footer:focus {
+.icon-3:focus {
   background-color: #31d0aa;
 }
 .header-footer {
